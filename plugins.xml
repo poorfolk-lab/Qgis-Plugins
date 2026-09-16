@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <pyqgis_plugin name="project_brils" version="1.0.0">
+        <description>Plugin voor data analyse in QGIS</description>
+        <version>1.0.0</version>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <author_name>poorfolk-lab</author_name>
+        <download_url>https://github.io</download_url>
+    </pyqgis_plugin>
+</plugins>
