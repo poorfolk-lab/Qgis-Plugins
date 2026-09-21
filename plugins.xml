@@ -5,6 +5,7 @@
         <version>5.2.1</version>
         <qgis_minimum_version>3.44</qgis_minimum_version>
         <author_name>poorfolk-lab</author_name>
+        <file_name>project_brils.zip</file_name>
         <download_url>https://poorfolk-lab.github.io/Qgis-Plugins/project_brils_dual_mode.zip</download_url>
     </pyqgis_plugin>
 
