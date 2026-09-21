@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-
-    <pyqgis_plugin name="project_brils" version="1.0.0">
-        <description>Plugin voor data analyse in QGIS</description>
-        <version>1.0.0</version>
-        <qgis_minimum_version>3.0</qgis_minimum_version>
+    <pyqgis_plugin name="Project Brils" version="5.2.1">
+        <description>Directe routes met adresvergelijking via een Excel-label of losse adreskolommen.</description>
+        <version>5.2.1</version>
+        <qgis_minimum_version>3.44</qgis_minimum_version>
         <author_name>poorfolk-lab</author_name>
-        <download_url>https://poorfolk-lab.github.io/Qgis-Plugins/project_brils.zip</download_url>
+        <download_url>https://poorfolk-lab.github.io/Qgis-Plugins/project_brils_dual_mode.zip</download_url>
     </pyqgis_plugin>
 
     <pyqgis_plugin name="PDOK Selectie Importeren" version="1.0.0">
@@ -16,5 +15,4 @@
         <author_name>poorfolk-lab</author_name>
         <download_url>https://poorfolk-lab.github.io/Qgis-Plugins/pdok_selectie_importeren.zip</download_url>
     </pyqgis_plugin>
-
 </plugins>
