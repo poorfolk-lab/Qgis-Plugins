@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-    <pyqgis_plugin name="Project Brils Dual Mode" version="5.2.4">
+    <pyqgis_plugin name="Project Brils Dual Mode" version="5.2.5">
         <description>Directe routes met adresvergelijking via een Excel-label of losse adreskolommen.</description>
-        <version>5.2.4</version>
+        <version>5.2.5</version>
         <qgis_minimum_version>3.44</qgis_minimum_version>
         <author_name>poorfolk-lab</author_name>
-        <download_url>https://poorfolk-lab.github.io/Qgis-Plugins/project_brils_dual_mode.zip</download_url>
+        <download_url>https://poorfolk-lab.github.io/Qgis-Plugins/project_brils_dual_mode.zip?v=5.2.5</download_url>
     </pyqgis_plugin>
 
     <pyqgis_plugin name="PDOK Selectie Importeren" version="1.0.0">
