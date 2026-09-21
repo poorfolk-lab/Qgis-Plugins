@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+
     <pyqgis_plugin name="project_brils" version="1.0.0">
         <description>Plugin voor data analyse in QGIS</description>
         <version>1.0.0</version>
@@ -7,4 +8,13 @@
         <author_name>poorfolk-lab</author_name>
         <download_url>https://poorfolk-lab.github.io/Qgis-Plugins/project_brils.zip</download_url>
     </pyqgis_plugin>
+
+    <pyqgis_plugin name="PDOK Selectie Importeren" version="1.0.0">
+        <description>Importeert BAG, BGT en BRK data van PDOK binnen geselecteerde projectpolygonen.</description>
+        <version>1.0.0</version>
+        <qgis_minimum_version>3.44</qgis_minimum_version>
+        <author_name>poorfolk-lab</author_name>
+        <download_url>https://poorfolk-lab.github.io/Qgis-Plugins/pdok_selectie_importeren_v1.0.0.zip</download_url>
+    </pyqgis_plugin>
+
 </plugins>
