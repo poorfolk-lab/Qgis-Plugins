@@ -14,7 +14,7 @@
         <version>1.0.0</version>
         <qgis_minimum_version>3.44</qgis_minimum_version>
         <author_name>poorfolk-lab</author_name>
-        <download_url>https://poorfolk-lab.github.io/Qgis-Plugins/pdok_selectie_importeren_v1.0.0.zip</download_url>
+        <download_url>https://poorfolk-lab.github.io/Qgis-Plugins/pdok_selectie_importeren.zip</download_url>
     </pyqgis_plugin>
 
 </plugins>
